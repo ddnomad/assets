@@ -1,2 +1,2 @@
 # assets
-dd's repository of assets that should be directly linkable for /reasons/
+dd's repository of assets, software and other artefacts that should be directly linkable
